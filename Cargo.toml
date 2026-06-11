@@ -1,0 +1,9 @@
+[package]
+name = "datadog-forwarder"
+version = "0.1.0"
+description = "A Rust library for Datadog Forwarder"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/datadog-forwarder"
+edition = "2021"
+
+[dependencies]
