@@ -1,9 +1,11 @@
 [package]
 name = "datadog-forwarder"
 version = "0.1.0"
-description = "A Rust library for Datadog Forwarder"
+description = "Datadog Forwarder — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/datadog-forwarder"
+repository = "https://github.com/SuperInstance/datadog-forwarder"
 edition = "2021"
+
+keywords = ["datadog-forwarder"]
 
 [dependencies]
